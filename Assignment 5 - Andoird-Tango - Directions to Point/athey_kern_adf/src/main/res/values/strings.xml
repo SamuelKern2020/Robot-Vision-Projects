@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Athey_Kern_ADF</string>
+    <string name="exception_out_of_date">Exception out of date</string>
+    <string name="exception_tango_error">Exception tango error</string>
+    <string name="exception_tango_invalid">Exception tango invalid</string>
+    <string name="load_adf">Load ADF</string>
+    <string name="record_adf">Record ADF</string>
+
+</resources>
